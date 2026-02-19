@@ -149,8 +149,9 @@ for i in range(10):
 
 # 👨‍💻 Author
 
-**Name:** Rohit Rawat
-**GitHub:** [https://github.com/RohitRawat891997](https://github.com/RohitRawat891997)
-**LinkedIn:** [https://www.linkedin.com/in/rohit-rawat-7383091a7/](https://www.linkedin.com/in/rohit-rawat-7383091a7/)
+**Name:** Rohit Rawat<br>
+**GitHub:** https://github.com/RohitRawat891997<br>
+**LinkedIn:** https://www.linkedin.com/in/rohit-rawat-7383091a7/
+
 
 ---
