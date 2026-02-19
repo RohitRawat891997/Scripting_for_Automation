@@ -145,8 +145,7 @@ print("hello3")
 ### ✅ Example Solution
 
 ```python
-for i in range(10):
-    print("Rohit Rawat")
+print(("Rohit Rawat" + "\n") * 10)
 ```
 
 ---
